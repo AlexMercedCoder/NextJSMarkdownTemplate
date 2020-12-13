@@ -1,5 +1,7 @@
 # NextJS Markdown Template
 
+app.get("/cheese/:param")
+
 - Markdown files are rendered from the markdown file and are visible at "mark/**filename**" endpoint
 
 - you can add styles via the styles.css in the public folder
